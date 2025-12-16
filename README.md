@@ -1,5 +1,5 @@
 # Subnational_Backsliding
-Online Appendix for the paper "Giants with feet of clay: Revisiting the role of subnational units in democratic backsliding", assignment for the course "Challenges of Democracy in Modern Contemporary Societies"
+Online Appendix for the paper "_Giants with feet of clay: Revisiting the role of subnational units in democratic backsliding_", assignment for the course "Challenges of Democracy in Modern Contemporary Societies"
 
 - _**do-file_subnationalbacksliding**_ contains the Stata scripts for the whole analysis, including the creation of the backsliding episodes dataset, the filtering and selection of V-Dem (2025) v15 variables, its processing and recoding, and all the models contained in the paper. The final section also contains some additional robustness checks.
 
